@@ -1,0 +1,14 @@
+Tasks: digital forensics and incident response tool
+2. Automate the scanning and analysis of data, including files, system logs, registry entries, network activity etc.
+3. Identify indicators of compromise (IOCs) and related suspicious activities
+4. Integrate AI/ML algorithms for anomaly detection and pattern recognition { scoring system }
+5. review options, graphical summaries, reporting capabilities
+6. exports in various formats
+
+
+ clear navigation and real-time data visualization
+
+
+
+
+

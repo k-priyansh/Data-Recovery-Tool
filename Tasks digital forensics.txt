@@ -1,0 +1,14 @@
+Tasks: digital forensics and incident response tool
+2. system logs, registry entries, network activity etc.
+3. Identify indicators of compromise (IOCs) and related suspicious activities
+4. Integrate AI/ML algorithms for anomaly detection and pattern recognition { scoring system }
+5. review options, graphical summaries, reporting capabilities
+6. exports in various formats
+
+
+ clear navigation and real-time data visualization
+
+
+
+
+VirusTotal API Key : f549b3c6c918b485e5d60b464827f8135934db568a793ee2091c1351fc5ac3a9
